@@ -2,7 +2,7 @@
 """
 Created on Thu Jun 24 00:40:08 2021
 
-@author: 33753
+@author: RAZZOUK Ali
 """
 import socket
 import matplotlib.pyplot as plt
